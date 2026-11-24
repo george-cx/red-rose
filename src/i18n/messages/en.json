@@ -1,0 +1,256 @@
+{
+  "site": {
+    "name": "RED ROSE",
+    "alternateName": "მარანი RED ROSE",
+    "place": "The Miqabadze family's cellar — Tsitelkhevi, Baghdati",
+    "region": "Imereti, Georgia",
+    "description": "A family wine cellar in Tsitelkhevi, Baghdati. Qvevri wine, a Georgian supra, and a marani five centuries old, in Imereti."
+  },
+  "nav": {
+    "home": "Home",
+    "cellar": "The cellar",
+    "wines": "Wines",
+    "visit": "Visiting",
+    "blog": "Visits",
+    "contact": "Contact",
+    "skip": "Skip to content",
+    "language": "Language",
+    "menu": "Menu"
+  },
+  "home": {
+    "title": "RED ROSE — a family wine cellar in Baghdati",
+    "heroAlt": "A group of guests at night, in front of the lit RED ROSE sign on the wall of the marani",
+    "visitHeading": "What a visit is",
+    "visitLead": "We gather at one table, the way a family does. The wine is made here in the marani; the table is laid from our own farm. Time passes the way it passes when you are someone's guest.",
+    "visitItems": {
+      "supra": "A supra at one long table",
+      "tamada": "A tamada, and the toasts",
+      "kunkula": "The old drinking vessels",
+      "vakhtanguri": "Vakhtanguri",
+      "cellar": "The marani and the qvevri",
+      "bottles": "Bottles to take home"
+    },
+    "visitMore": "More about visiting",
+    "winesHeading": "Wine",
+    "winesMore": "All the wines",
+    "visitsHeading": "Recent visits",
+    "visitsMore": "All visits",
+    "countriesHeading": "Where guests have come from",
+    "countriesLead": "A list gathered over the years.",
+    "bookHeading": "Come and visit",
+    "bookLead": "Call or write. The rest we agree together.",
+    "quoteHeading": "Why people come",
+    "quote": "We had many options — industrial châteaux, tourist sites loaded with tourists, new wine factories where we would have met dozens of industrial wines. But we chose to come into a quiet place like this, into a family, so we could better understand the Georgian character, the authentic nature and the traditions. We could not have learned this better anywhere else. Thank you for keeping the traditions.",
+    "quoteAttribution": "A guest from Europe"
+  },
+  "offer": {
+    "title": "What we offer",
+    "lead": "Three things. The rest we agree with each group.",
+    "tasting": {
+      "name": "Wine tasting and masterclass",
+      "note": "The range of our wines — different varieties, different styles. The tasting comes with a conversation about how each of them comes to be."
+    },
+    "cooking": {
+      "name": "Georgian cooking masterclass",
+      "note": "Georgian dishes as they are made in a household. The produce is from our own farm; the recipes come down through the family."
+    },
+    "supra": {
+      "name": "The Georgian supra",
+      "note": "A long table, a tamada, and the toasts in their order. The tradition as it is kept here."
+    }
+  },
+  "cellar": {
+    "title": "The cellar",
+    "lead": "A family marani in Tsitelkhevi. Stone walls, a brick vault, qvevri set flush into the floor.",
+    "familyHeading": "The family",
+    "familyBody": "Tariel Miqabadze tends the vines and makes the wine. The table is the family's work, and it is the young of the house who meet the guests. The marani is a family concern, and it was so for those who came before.",
+    "generationsHeading": "Four generations on one press",
+    "generationsBody": "The otsintsari — the old press — is three centuries old, and every generation has left something on it. The megalithic stone was brought by distant forebears, the massive iron stand was assembled by his grandfather, the timber renewed by his father, and Tariel added the upper structure and made the work lighter. Four generations on one tool.",
+    "historyHeading": "Why there are no old châteaux here",
+    "historyBody": "Guests often ask why Imereti has no old estates of the kind the old wine countries have. The answer is invasion. For centuries western Georgia stood on the road of invading armies, and the old marani were left without one stone on another. An Imeretian would hide his wine, qvevri and all, away from the house, in the forest. Something unique survived all the same — and it is what stands in our marani today.",
+    "photoAlt": "Inside the marani at Red Rose"
+  },
+  "heritage": {
+    "title": "A marani five centuries old",
+    "lead": "The oldest vessel here was made five or six hundred years ago, and it is still in use. Nothing in this room is on display.",
+    "artefacts": {
+      "sachache": {
+        "name": "The sachache",
+        "age": "5–6 centuries",
+        "note": "An Imeretian churi-shaped vessel of 800 pood — about 12.6 tonnes. Made for household wine and for storing chacha, its rims built up in lime mortar, and in excellent condition still."
+      },
+      "press": {
+        "name": "The otsintsari press",
+        "age": "3 centuries",
+        "note": "The stone, the iron stand and the timber each belong to a different generation. Tsolikouri juice still runs off it."
+      },
+      "qvevri": {
+        "name": "The qvevri",
+        "age": "in the floor",
+        "note": "Set flush into the flagstone floor of the marani, ringed in deep red, opened in front of guests."
+      },
+      "kunkula": {
+        "name": "The kunkula",
+        "age": "100 years",
+        "note": "An Imeretian drinking vessel. Emptying it takes patience — guests discover that quickly enough."
+      },
+      "chinchila": {
+        "name": "The chinchila",
+        "age": "at the table",
+        "note": "The other vessel that comes out at a supra. Drinking from it is a performance in itself."
+      }
+    }
+  },
+  "eco": {
+    "title": "An eco-farm",
+    "lead": "More than twenty years of caring for the soil. No herbicides, no mineral fertiliser, and of the rest only what is strictly necessary.",
+    "points": {
+      "soil": {
+        "name": "The soil",
+        "note": "He took on the family plots exhausted — the ground had no strength left. He has spent more than twenty years bringing it back."
+      },
+      "mycorrhiza": {
+        "name": "Mycorrhiza",
+        "note": "The mycorrhizal fungi in the soil are the foundation of living ground. Tariel has watched them for years, and writes about them too."
+      },
+      "proof": {
+        "name": "The proof",
+        "note": "Mushrooms coming up under the vines. They appear only where the soil is alive, which is why finding them is a good sign."
+      },
+      "table": {
+        "name": "Onto the table",
+        "note": "Vegetables grown without fertiliser, produce from our own farm, mushrooms picked in the vineyard. The farm and the table are the same place."
+      }
+    }
+  },
+  "wines": {
+    "title": "Wines",
+    "lead": "The four varieties we speak about most. There is more in the marani besides.",
+    "varietiesHeading": "The varieties",
+    "bottlesHeading": "Named bottles",
+    "collectionHeading": "From the collection",
+    "varieties": {
+      "tsolikouri": {
+        "name": "Tsolikouri",
+        "note": "Pressed on the three-century stone of the old otsintsari. It comes to the table young as well, lightly sparkling."
+      },
+      "krakhuna": {
+        "name": "Krakhuna",
+        "note": "From the experimental plot — the one where parasol mushrooms come up under the vines, which is how Tariel knows the soil is alive."
+      },
+      "aladasturi": {
+        "name": "Aladasturi",
+        "note": "Made into the rosé. Semi-dry, pét-nat, finished with a liqueur d'expédition."
+      },
+      "aleksandrouli": {
+        "name": "Aleksandrouli",
+        "note": "In one year the berries began to colour from the tenth of July — unheard-of early."
+      }
+    },
+    "bottles": {
+      "redRose": {
+        "name": "„წითელი ვარდი\" — Red Rose 2025",
+        "note": "Aladasturi rosé, semi-dry, pét-nat, finished with a special liqueur d'expédition. The cellar's own name, on its own wine."
+      },
+      "freedom": {
+        "name": "„თავისუფლება\" — Freedom, 2006",
+        "note": "Tariel's first work, and still the start of the marani's story. A liqueur wine of grape and fruit, 16%, 500 ml. He named it after a line of Georgian verse: freedom, thou art the haven of peoples."
+      }
+    },
+    "collection": {
+      "salkhino": {
+        "name": "„სალხინო\" — Salkhino",
+        "note": "A fifty-year-old fortified wine from the village of Vartsikhe here in Baghdati, seven times a gold medallist at international shows. Not made here — Tariel keeps a few bottles in his collection, and opens one now and then."
+      }
+    },
+    "methodHeading": "How it is made",
+    "methodBody": "Qvevri set into the floor of the marani, the old otsintsari press, and a five-century sachache. Modern tools stand beside them — in Tariel's words, novelty living alongside the innovations of the past."
+  },
+  "eristavi": {
+    "title": "The “Eristavi” trademark",
+    "lead": "“Eristavi” is the cellar's own trademark.",
+    "enquiries": "For the mark, and for what is produced under it, contact Tariel — he answers himself."
+  },
+  "visit": {
+    "title": "Visiting",
+    "lead": "Tariel receives guests almost every day in season. This is what happens when you come.",
+    "includesHeading": "What a visit is",
+    "includesBody": "A supra at one long table, with food cooked in the house. The tamada leads the toasts in their order, and passes them on to the guests. Somewhere in the evening the old drinking vessels appear. And there is the marani itself — the qvevri, the press, and vessels of several centuries. The tamada always knows who is driving.",
+    "durationHeading": "How long it takes",
+    "durationBody": "How long depends on the group. A supra is not fond of hurry 🙂",
+    "priceHeading": "What it costs",
+    "priceBody": "There is no fixed price — it depends on the group and on the table, and Tariel agrees it with you directly. Bottles can be taken home.",
+    "groupsHeading": "Groups",
+    "groupsBody": "A small table or a large group alike. Everything is arranged in advance.",
+    "whenHeading": "When to come",
+    "whenBody": "We keep no fixed hours — the time is arranged beforehand. Get in touch and we will find one.",
+    "gettingHereHeading": "Getting here",
+    "bookHeading": "How to book",
+    "bookBody": "Call or write. There is no booking form — you will be talking to Tariel.",
+    "phoneLabel": "Phone",
+    "emailLabel": "Email"
+  },
+  "blog": {
+    "title": "Visits",
+    "lead": "Tariel writes something after almost every group. These are his posts, as he wrote them.",
+    "count": "{count} entries",
+    "filterLabel": "Filter by subject",
+    "all": "All",
+    "loadMore": "More entries",
+    "showing": "Showing {shown} of {total}",
+    "empty": "Nothing under this subject yet."
+  },
+  "post": {
+    "translatedFrom": "Translated from {lang}",
+    "translatedShort": "Translated",
+    "langNames": {
+      "ka": "Georgian",
+      "en": "English",
+      "ru": "Russian"
+    },
+    "previous": "Previous",
+    "next": "Next",
+    "backToAll": "All visits",
+    "guestsFrom": "Guests from {country}"
+  },
+  "contact": {
+    "title": "Contact",
+    "lead": "Call or write. Tariel answers himself.",
+    "phoneLabel": "Phone",
+    "emailLabel": "Email",
+    "addressLabel": "Address",
+    "hoursLabel": "When",
+    "bookingNote": "There is no booking form and no fixed price. Tell Tariel how many of you there are and roughly when, and the rest is agreed between you.",
+    "openInMaps": "Open in Google Maps",
+    "coordsLabel": "Coordinates"
+  },
+  "tags": {
+    "guests": "Guests",
+    "vineyard": "The vineyard",
+    "wine": "Wine and qvevri",
+    "family": "Family",
+    "feast": "Feast days"
+  },
+  "countries": {
+    "cz": "Czechia",
+    "de": "Germany",
+    "fi": "Finland",
+    "lt": "Lithuania",
+    "ru": "Russia",
+    "md": "Moldova",
+    "be": "Belgium",
+    "it": "Italy",
+    "ir": "Iran",
+    "us": "United States",
+    "gb-sct": "Scotland",
+    "hu": "Hungary",
+    "at": "Austria",
+    "baltic": "The Baltic coast"
+  },
+  "notFound": {
+    "title": "This page is not here",
+    "body": "The link may be old, or the address slightly wrong.",
+    "home": "Go to the home page",
+    "blog": "Go to the visits"
+  }
+}

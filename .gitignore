@@ -1,0 +1,17 @@
+node_modules/
+.next/
+.next-dev/
+out/
+*.tsbuildinfo
+next-env.d.ts
+.DS_Store
+.env*.local
+
+# Source material, not part of the website.
+# Both are irreplaceable — keep them backed up outside git.
+# "Red Rose.pages"  : the original 134 MB Pages document the posts came from.
+# source-photos/    : the full-resolution originals. The web-ready versions in
+#                     public/visits/ are committed, so the site builds without
+#                     these; they are only needed to re-run `pnpm prepare-images`.
+Red Rose.pages
+source-photos/
