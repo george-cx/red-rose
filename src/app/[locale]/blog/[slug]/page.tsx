@@ -2,12 +2,12 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { notFound } from 'next/navigation';
-import { MDXRemote } from 'next-mdx-remote/rsc';
 
 import { isLocale, locales, type Locale } from '@/i18n/routing';
 import { pageMetadata } from '@/lib/metadata';
 import { getVisit, getAdjacent, getAllSlugs } from '@/lib/visits';
 import { Gallery } from '@/components/Gallery';
+import { PostBody } from '@/components/PostBody';
 import { Photo } from '@/components/Photo';
 import { ArticleJsonLd, BreadcrumbJsonLd } from '@/components/JsonLd';
 import { SITE_URL } from '@/lib/contact';
@@ -103,11 +103,7 @@ export default async function VisitPage({
         </div>
       ) : null}
 
-      {visit.body ? (
-        <div className="prose-visit max-w-measure text-floor">
-          <MDXRemote source={visit.body} />
-        </div>
-      ) : null}
+      {visit.body ? <PostBody text={visit.body} /> : null}
 
       {rest.length ? <Gallery photos={rest} alt={visit.title} /> : null}
 
